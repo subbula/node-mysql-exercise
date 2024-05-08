@@ -1,0 +1,9 @@
+ {
+      "username": "root",
+      "password": "#D1Subbu",
+      "database": "fullstackassessment",
+      "host": "localhost",
+      "dialect": "mysql"
+    }
+
+  
